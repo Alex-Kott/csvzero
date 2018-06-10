@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['/home/alexkott/Documents/YouDo/csvzero'],
+             pathex=['C:\\Users\\alexkott\\Documents\\YouDo\\csvzero'],
              binaries=[],
              datas=[],
              hiddenimports=[],
